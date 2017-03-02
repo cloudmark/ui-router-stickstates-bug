@@ -13,7 +13,7 @@ import {uiRouterConfigure} from "./router-extensions/routerConfig";
 
 export let MAIN_STATES: Ng2StateDeclaration[] = [{
   name: 'app',
-  url: '/:lang',
+  url: '',
   component: AppComponent,
   abstract: true
 }];

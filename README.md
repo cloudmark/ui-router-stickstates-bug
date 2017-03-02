@@ -7,6 +7,8 @@ and run the code using:
 
 > npm run start.deving
 
+Open the browser @ http://localhost:5555/
+
 As soon as you run the code the first error shows up, this is due to a refactor in `ui-router-core`: 
 
 ```
